@@ -1,1 +1,1 @@
-# ML-on-big-data-project
+# ML-on-big-data-project (scala)
